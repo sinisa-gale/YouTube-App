@@ -1,0 +1,10 @@
+.search button {
+	color: #fff;
+	border: none;
+	background-color: #cf332c;
+	height: 32px;
+	text-transform: uppercase;
+	padding: 0 10px;
+	outline: none;
+	cursor: pointer;
+}

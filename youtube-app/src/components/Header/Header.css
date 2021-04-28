@@ -1,0 +1,17 @@
+header {
+	padding: 10px 0;
+	background-color: #fff;
+	box-shadow: 0 0 2px 0 rgba(0,0,0,0.5);
+}
+
+.wrapper {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+header .wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
